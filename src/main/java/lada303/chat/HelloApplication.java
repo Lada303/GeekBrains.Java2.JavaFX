@@ -1,4 +1,4 @@
-package lada303.lesson4;
+package lada303.chat;
 
 import javafx.application.Application;
 import javafx.fxml.FXMLLoader;

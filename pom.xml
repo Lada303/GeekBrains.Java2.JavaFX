@@ -60,7 +60,7 @@
                         <!-- Default configuration for running with: mvn clean javafx:run -->
                         <id>default-cli</id>
                         <configuration>
-                            <mainClass>lada303.gbjava2lesson4/lada303.lesson4.HelloApplication</mainClass>
+                            <mainClass>lada303.gbjava2lesson4/lada303.chat.HelloApplication</mainClass>
                             <launcher>app</launcher>
                             <jlinkZipName>app</jlinkZipName>
                             <jlinkImageName>app</jlinkImageName>

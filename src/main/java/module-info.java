@@ -3,6 +3,6 @@ module lada303.gbjava2lesson4 {
     requires javafx.fxml;
 
 
-    opens lada303.lesson4 to javafx.fxml;
-    exports lada303.lesson4;
+    opens lada303.chat to javafx.fxml;
+    exports lada303.chat;
 }
